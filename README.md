@@ -121,10 +121,10 @@ We evaluated both models using the following metrics:
 ## 📊 Results
 
 <details>
-| Model               | Accuracy  | Comment                                        |
-| ------------------- | --------  | ---------------------------------------------- |
-| Logistic Regression | ~0.831    | Simple, interpretable baseline                 |
-| SVM (RBF Kernel)    | ~0.837    | Slightly better, captures nonlinear boundaries |
+| Model | Accuracy | Comment |
+| ------- | --------- |---------- |
+| Logistic Regression | ~0.831 | Simple, interpretable baseline |
+| SVM (RBF Kernel) | ~0.837 | Slightly better, captures nonlinear boundaries |
 </details>
 
 > ⚠️ *Note:* Accuracy may vary slightly depending on random seed and preprocessing details.
@@ -144,11 +144,12 @@ We evaluated both models using the following metrics:
 ## 🧠 Technologies Used
 
 <details>
-| Category    | Tools                                                      |
-| ----------- | ---------------------------------------------------------- |
-| Language    | Python                                                     |
-| Libraries   | `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn` |
-| Environment | Jupyter Notebook (`.ipynb`)                                |
+
+| Category | Tools |
+| ------------ | --------- |
+| `Language` | Python |
+| `Libraries` | `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn` |
+| `Environment` | Jupyter Notebook (`.ipynb`) |
 </details>
 
 ---
@@ -169,8 +170,8 @@ We evaluated both models using the following metrics:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/heart-disease-prediction.git
-   cd heart-disease-prediction
+   git clone https://github.com/PES2UG23CS290/Predicting-Disease-Type-from-Clinical-Measurements.git
+   cd Predicting-Disease-Type-from-Clinical-Measurements
    ```
 
 2. Install dependencies:
@@ -199,8 +200,9 @@ We evaluated both models using the following metrics:
 
 ## ✍️ Author
 
-**PESU_Student**
-📍 Department of Computer Science
+  Kshitij<br>
+  Likith N<br>
+📍 Department of Computer Science<br>
 🎓 PES University
 
 ---
