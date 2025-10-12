@@ -123,8 +123,8 @@ We evaluated both models using the following metrics:
 <details>
 | Model | Accuracy | Comment |
 | ------- | --------- |---------- |
-| Logistic Regression | ~0.831 | Simple, interpretable baseline |
-| SVM (RBF Kernel) | ~0.837 | Slightly better, captures nonlinear boundaries |
+| `Logistic Regression` | ~0.831 | Simple, interpretable baseline |
+| `SVM (RBF Kernel)` | ~0.837 | Slightly better, captures nonlinear boundaries |
 </details>
 
 > ⚠️ *Note:* Accuracy may vary slightly depending on random seed and preprocessing details.
