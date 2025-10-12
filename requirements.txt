@@ -1,0 +1,15 @@
+# Core scientific computing
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter environment
+jupyter==1.1.1
+notebook==7.2.2
+
