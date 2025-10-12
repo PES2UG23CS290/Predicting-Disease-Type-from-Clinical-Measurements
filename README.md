@@ -121,6 +121,7 @@ We evaluated both models using the following metrics:
 ## 📊 Results
 
 <details>
+
 | Model | Accuracy | Comment |
 | ------- | --------- |---------- |
 | `Logistic Regression` | ~0.831 | Simple, interpretable baseline |
